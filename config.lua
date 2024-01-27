@@ -35,7 +35,7 @@ Config.PawnItems = {
         price = math.random(50,100)
     },
     [4] = {
-        item = '10kgoldchain',
+        item = 'tenkgoldchain',
         price = math.random(50,100)
     },
     [5] = {
